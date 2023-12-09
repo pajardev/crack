@@ -6,5 +6,10 @@
 
 # install git
 
-#
+# git clone https://github.com/pajardev/crack
 
+# ls
+
+# cd crack
+
+# python terbaru2023.py
