@@ -12,4 +12,4 @@
 
 # cd crack
 
-# python terbaru2023.py
+# python terbaru2023_enc.py
